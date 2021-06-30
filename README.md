@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @fatihari
-- 👀 I’m interested many software and hardware areas such as Backend, Frontend, Linux, Python, C, C#, .NET, Java, Django, Android Studio, SQL, Arduino etc.
+- 👀 I’m interested many software and hardware areas such as backend and frontend frameworks, Linux, Python, C, C#, .NET, Java, Django, Android Studio, SQL, Arduino etc.
 - 🌱 I’m currently learning JS and Vue.js
 - 📫 You can reach me via fatiharics@gmail.com email address or https://www.linkedin.com/in/fatiharics/ linkedin address. 
 
