@@ -3,7 +3,6 @@
 - 💡  Using the Java Programming language, I completed my senior project in the field of health and society in Android Studio. 
 - 👀 I’m interested many software and hardware areas such as backend and frontend frameworks, Linux, Python, C, C#, .NET, Java, Django, Android Studio, SQL, Arduino etc.
 - 🌱 I’m currently learning JS, Vue.js and everything.
-- 📫 You can reach me via fatiharics@gmail.com email address or  linkedin address. 
 - ⚡ Fun fact1: I love classical literature.
 - ⚡ Fun fact2: Soon, I'll be release a 25-track music album that I made non-profit.
 
@@ -11,9 +10,10 @@
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -44,6 +44,7 @@ You can click the Preview link to take a look at your changes.
  
  
 [youtube]: https://www.youtube.com/watch?v=0V4UAzTyuYs
+[gmail]: fatiharics@gmail.com
 [instagram]: https://www.instagram.com/fatihari_/
 [linkedin]: https://www.linkedin.com/in/fatiharics/
 [django]: https://www.djangoproject.com
