@@ -2,7 +2,7 @@
 ### I'm a DEU Computer Engineering Senior Student and Musician
 - 💡  Using the Java Programming language, I completed my senior project in the field of health and society in Android Studio. 
 - 👀 I’m interested many software and hardware areas such as backend and frontend frameworks, Linux, Python, C, C#, .NET, Java, Django, Android Studio, SQL, Arduino etc.
-- 🌱 I’m currently learning JS, Vue.js and everything.
+- 🌱 I’m currently learning Spring Framework and everything.
 - ⚡ Fun fact1: I love classical literature.
 - ⚡ Fun fact2: Soon, I'll be release a 25-track music album that I made non-profit.
 
