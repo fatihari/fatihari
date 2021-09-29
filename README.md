@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @fatihari
 ### I'm a DEU Computer Engineering Senior Student and Musician
 - 💡  Using the Java Programming language, I completed my senior project in the field of health and society in Android Studio. 
-- 👀 I am interested in Web Backend software development, for example, Java - Spring Framework, Python - Django Framework, C# - .NET. Android development in mobile software I developed applications with Java. 
+- 👀 I am interested in Web Backend software development, for example, Java - Spring Framework, Python - Django Framework, C# - .NET Framework. Android development in mobile software I developed applications with Java. 
 - 🌱 I’m currently learning Spring MVC, Hibernate, Spring Boot and everything.
 - ⚡ Fun fact1: I love classical literature.
 - ⚡ Fun fact2: Soon, I'll be release a 25-track music album that I made non-profit.
