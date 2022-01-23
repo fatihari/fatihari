@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @fatihari
-### I'm a DEU Computer Engineering Fresh Graduate and Musician
+### I'm a DEU Computer Engineering Graduate and Musician
 > And I am currently training at N11 Java Bootcamp provided via Patika.dev.
 - 💡  Using the Java Programming language, I completed my senior project in the field of health and society in Android Studio. 
 - 👀 I am interested in Web Backend software development, for example, Java - Spring Framework, Python - Django Framework, C# - .NET Framework. Android development in mobile software I developed applications with Java. 
